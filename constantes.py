@@ -2,6 +2,9 @@ import pygame
 
 ANCHO, ALTO = 900, 559
 
+"""
+FUENTES
+"""
 FUENTE_JUGADORES = pygame.font.SysFont("Arial", 15, bold=True)
 FUENTE = pygame.font.SysFont(None, 20)
 FUENTE_GRANDE = pygame.font.SysFont(None, 24)
