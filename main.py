@@ -50,7 +50,7 @@ INICIALIZACIÓN DE LA APLICACIÓN
 """
 
 pantalla = pygame.display.set_mode((ANCHO, ALTO))
-pygame.display.set_caption("Pizarra Hockey Línea")
+pygame.display.set_caption("Hockey Board")
 
 
 lista_grabacion_actual = []  # Aquí guardaremos la jugada actual
